@@ -2,8 +2,7 @@
 
 In this project, I create a program in C++ to create
   a deck of cards, shuffle it, and deal hands in the game of poker.
-  Then evaluate the value of the poker hand. I have skipped full house
-  and royal flush hand for this assignment.
+  Then evaluate the value of the poker hand.
 
   There are three classes that make this program function. They are:
   1. Class Card
